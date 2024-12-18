@@ -1,7 +1,9 @@
 # fall_final_zoo
-## A Make-Your-Own Zoo Catalog
+## Zoo Management Catalog
 ### Add, Search, or View Animals
+Welcome to the Zoo!
+
 Actions
-- Add: Create our own Animal to add to the Zoo
-- Search: Search for Animals in the Zoo
-- View: View all current Animals in the Zoo
+- Add (A): Create your own Animal to add to the Zoo
+- Search (S): Search for Animals in the Zoo
+- View (V): View all current Animals in the Zoo
