@@ -1,5 +1,6 @@
 # IDEA file
 .idea
+/out
 
 # Compiled class file
 *.class
